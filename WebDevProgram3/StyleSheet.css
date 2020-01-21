@@ -1,0 +1,13 @@
+﻿body {
+
+}
+.valerror {
+    margin-left: 5px;
+    color: red;
+    font-weight: bold;
+}
+.lblSmall {
+    font-size: medium;
+    margin-left: 45px;
+    color: black;
+}
